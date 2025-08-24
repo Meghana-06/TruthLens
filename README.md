@@ -12,6 +12,16 @@ TruthTrack is an advanced AI-powered misinformation detection and verification p
 - **FAQs & Knowledge Base** – Expert guidance, technical documentation, and best practices.  
 
 ## 🔗 Portia AI Integration  
+## 🔗 Role of Portia AI in TruthTrack  
+
+Portia AI plays a key role in TruthTrack by automating the extraction of real-time data from diverse sources such as news portals, blogs, and social media feeds. Using Portia AI’s point-and-click interface, we created custom spiders to collect articles, images, and metadata without writing complex scraping code.  
+
+This integration ensures:  
+- **Continuous content ingestion** for our detection models  
+- **Faster dataset creation** for AI training  
+- **Seamless workflow automation** feeding data directly into our verification pipeline
+- 
+Portia AI (Data Collection) → Preprocessing → TruthTrack AI Models → Dashboard Output
 
 TruthTrack integrates **Portia AI** to automate large-scale data extraction from news websites, blogs, and social media feeds. This enables a continuous flow of real-time content into our detection pipeline, ensuring our models can analyze and verify digital information with **higher accuracy and speed**.  
 
