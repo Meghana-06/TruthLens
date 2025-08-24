@@ -2,6 +2,9 @@
 
 TruthTrack is an advanced AI-powered misinformation detection and verification platform developed by **CodeHustlers** to combat the growing threat of digital disinformation. It leverages **machine learning, natural language processing, and computer vision** to provide real-time detection, analysis, and verification of content across multiple formats — text, images, audio, and video.  
 
+##Deployment Link:
+https://app--truth-lens-874cd33e.base44.app
+
 ## 🚀 Features  
 
 - **Trending Search** – Real-time monitoring of viral misinformation across social platforms.  
