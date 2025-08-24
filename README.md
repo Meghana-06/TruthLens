@@ -1,4 +1,4 @@
-# TruthTrack – AI-Powered Misinformation Detection Platform  
+# TruthTrack – AI-Powered Misinformation Detection Platform  (TEAM CODEHUSTLERS)
 
 TruthTrack is an advanced AI-powered misinformation detection and verification platform developed by **CodeHustlers** to combat the growing threat of digital disinformation. It leverages **machine learning, natural language processing, and computer vision** to provide real-time detection, analysis, and verification of content across multiple formats — text, images, audio, and video.  
 
@@ -47,3 +47,5 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/truthtrack.git
 cd truthtrack
+
+
